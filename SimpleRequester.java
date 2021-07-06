@@ -2,7 +2,7 @@ package com.darktornado.library;
   
 /*
 Simple Requester
-© 2020-2020 Dark Tornado, All rights reserved.
+© 2020-2021 Dark Tornado, All rights reserved.
 */
 
 import java.io.BufferedReader;
